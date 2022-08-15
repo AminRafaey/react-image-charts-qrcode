@@ -4,21 +4,21 @@
 [![Downloads](https://img.shields.io/npm/dw/react-google-qrcode.svg?style=for-the-badge&logo=appveyor)]()
 [![License](https://img.shields.io/github/license/iamgutz/react-google-qrcode.svg?style=for-the-badge&logo=appveyor)]()
 
-react-google-qrcode is a React Component to generate a QR code via Google Chart API.
+react-image-charts-qrcode is a React Component to generate a QR code via Image Charts API.
 ![screen shot](https://raw.githubusercontent.com/iamgutz/react-google-qrcode/master/screenshots/demo-image.png)
 
 ## Installation
 ```
-$ yarn add react-google-qrcode
+$ yarn add react-image-charts-qrcode
 or
-$ npm install --save react-google-qrcode
+$ npm install --save react-image-charts-qrcode
 ```
 
 ## Usage
 
 ```
 import React, { Component } from 'react';
-import QRCode from 'react-google-qrcode';
+import QRCode from 'react-image-charts-qrcode';
 
 class App extends Component {
   render() {
@@ -43,4 +43,4 @@ class App extends Component {
 |framed| Boolean | No |  Adds a frame to the image| false
 
 # Demo
-You want to see some examples? Go to [Online Demo](https://iamgutz.github.io/react-google-qrcode/)
+You want to see some examples? Go to [Online Demo](https://AminRafaey.github.io/react-image-charts-qrcode/)
