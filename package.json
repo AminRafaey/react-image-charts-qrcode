@@ -1,6 +1,6 @@
 {
   "name": "react-image-charts-qrcode",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "React Component to Generate a QR Code",
   "main": "dist/index.js",
   "engines": {
