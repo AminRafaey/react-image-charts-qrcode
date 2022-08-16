@@ -1,11 +1,10 @@
-# React Image Charts QR Code
+# React Google QR Code
 [![Version](https://img.shields.io/npm/v/react-google-qrcode.svg?style=for-the-badge&logo=appveyor)]()
 [![React](https://img.shields.io/npm/dependency-version/react-google-qrcode/react.svg?style=for-the-badge&logo=appveyor)]()
-[![Downloads](https://img.shields.io/npm/dw/react-google-qrcode.svg?style=for-the-badge&logo=appveyor)]()
 [![License](https://img.shields.io/github/license/iamgutz/react-google-qrcode.svg?style=for-the-badge&logo=appveyor)]()
 
 react-image-charts-qrcode is a React Component to generate a QR code via Image Charts API.
-![screen shot](https://raw.githubusercontent.com/iamgutz/react-google-qrcode/master/screenshots/demo-image.png)
+![screen shot](https://i.ibb.co/jhXRmBz/Screenshot-2022-08-15-at-8-29-44-PM.png)
 
 ## Installation
 ```
