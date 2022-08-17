@@ -1,6 +1,6 @@
 {
   "name": "react-image-charts-qrcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Component to Generate a QR Code",
   "main": "dist/index.js",
   "engines": {
@@ -64,12 +64,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamgutz/react-google-qrcode.git"
+    "url": "git+https://github.com/AminRafaey/react-image-charts-qrcode.git"
   },
   "bugs": {
-    "url": "https://github.com/iamgutz/react-google-qrcode/issues"
+    "url": "https://github.com/AminRafaey/react-image-charts-qrcode.git/issues"
   },
-  "homepage": "https://github.com/iamgutz/react-google-qrcode#readme",
+  "homepage": "https://github.com/AminRafaey/react-image-charts-qrcode.git#readme",
   "keywords": [
     "React",
     "QR code",
